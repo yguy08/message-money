@@ -1,2 +1,2 @@
-# messageMoney
-messageMoney iOS app
+# Message Money
+
